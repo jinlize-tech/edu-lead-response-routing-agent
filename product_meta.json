@@ -1,0 +1,24 @@
+{
+  "number": 25,
+  "product_id": "JLZ-EDU-AG-004",
+  "chinese_name": "线索响应调度",
+  "english_name": "Lead Response Routing Agent",
+  "repository_name": "edu-lead-response-routing-agent",
+  "product_type": "Agent",
+  "category": "02 销售转化中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-lead-response-routing-agent-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "线索池、来源、意向标签、校区/顾问能力、响应时限和排班",
+  "main_output": "优先级规则、分派表、响应SLA、超时升级路径和负载检查",
+  "package_entries": [
+    "edu-lead-response-routing-agent/.codebuddy-plugin/plugin.json",
+    "edu-lead-response-routing-agent/agents/edu-lead-response-routing-agent.md",
+    "edu-lead-response-routing-agent/avatars/expert.png",
+    "edu-lead-response-routing-agent/README.md"
+  ]
+}
