@@ -1,6 +1,6 @@
 {
   "name": "edu-lead-response-routing-agent",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Multi-step education operations assistant for Lead Response Routing Agent.",
   "author": {
     "name": "广州金励泽科技服务有限公司",
@@ -17,7 +17,7 @@
   },
   "profession": {
     "en": "Lead Response Routing Agent",
-    "zh": ""
+    "zh": "招生线索响应调度专家"
   },
   "displayDescription": {
     "en": "A multi-step education agent for Lead Response Routing Agent, producing reviewable plans with human checkpoints.",

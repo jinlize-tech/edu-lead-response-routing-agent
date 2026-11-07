@@ -6,7 +6,7 @@ displayName:
   zh: '线索响应调度'
 profession:
   en: 'Lead Response Routing Agent'
-  zh: ''
+  zh: '招生线索响应调度专家'
 maxTurns: 50
 ---
 
